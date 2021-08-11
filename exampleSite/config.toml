@@ -1,6 +1,6 @@
-baseURL = "www.example.com"
+baseURL = "https://willh.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "William Huang"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
