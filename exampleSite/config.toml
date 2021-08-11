@@ -56,14 +56,3 @@ theme = "hugo-serif-theme"
       name = "Contact"
       url = "/contact/"
       weight = 4
-
-  # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-      weight = 1
-
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-      weight = 2
