@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
+meta_title: 'William Huang'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
