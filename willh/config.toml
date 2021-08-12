@@ -39,7 +39,7 @@ theme = "hugo-serif-theme"
   # Main Menu
   [[menu.main]]
     name = "Tutor/Classes"
-    url = "/tutor/"
+    url = "/services/"
       weight = 1
 
   [[menu.main]]
