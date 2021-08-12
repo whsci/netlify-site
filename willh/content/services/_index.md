@@ -1,11 +1,11 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
+title: 'Tutor/Classes'
+description: 'Information about tutoring and classes offered.'
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Tutoring and Classes
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+I offer a variety of tutoring and classes.
