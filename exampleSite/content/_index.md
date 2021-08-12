@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # William Huang
 
-Brief description here.
+Undergraduate in ____________ at ____________
