@@ -43,16 +43,11 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 2
-
-  [[menu.main]]
       name = "About"
       url = "/about/"
-      weight = 3
+      weight = 2
 
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 4
+      weight = 3
