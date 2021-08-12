@@ -19,11 +19,11 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/littlelogo.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/biglogo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "William Huang"
 
   [params.seo]
     meta_twitter_site = "@zerostaticio"
